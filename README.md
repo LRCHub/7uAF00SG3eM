@@ -1,0 +1,82 @@
+# ReGLOSS – SKAVLA
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Snowfall
+触れる上空
+幻想と過ち ノイズは砂嵐
+Slo-mo
+Come let me show you
+戯けてみせる 銀世界
+Yeah yeah yeah yeah
+If the sky is falling down...
+If the stars had no shine...
+真っさらな紙の上
+答え 滲ませる
+すべて思うままに
+風が刻む 波の Melody
+Pandora Pandora
+ユメヲ Holding in my heart
+移ろい 色褪せぬように
+Pandora Pandora
+秘密のオブジェ
+SKAVLA
+Rum pum pum pum pum pum pum pum
+Rum pum pum pum pum pum pum pum
+SKAVLA
+Rum pum pum pum pum pum pum pum
+象る STAR
+SKAVLA
+Rum pum pum pum pum pum pum pum
+Rum pum pum pum pum pum pum pum
+灯す光 The sign of sprouting
+SKAVLA
+ワンクールのドラマよりも
+永い Fairy tale
+嘘偽りなく Take this pain
+匙を投げた Plastic mind
+この世にオモテもウラもない
+いつも違う表情 朧げな Irony
+一日を抱き締めてたいのに
+沈む足跡
+怯む暇はない 上を目指そう
+In a world where no one's hurt,
+I might not have become kind
+忍ばせて、仮初
+朽ちるまで待ち惚け
+いずれ花になる
+風が刻む 波の Melody
+Pandora Pandora
+ユメヲ Holding in my heart
+移ろい 色褪せぬように
+Pandora Pandora
+秘密のオブジェ
+可能性が Swirling in a dance
+幾層にも重なって
+たゆたう歪に Ambivalence
+振り解いた その向かい風
+Rum pum pum pum pum!!
+今こそ 切なる願い
+打ち鳴らせ Wake up
+そっと手を伸ばす 冬枯れの結晶
+閉ざしてしまいそうな夜だって
+この歌声で繋ぎとめてみせるから
+風が刻む 波の Melody
+Pandora Pandora
+ユメヲ Holding in my heart
+移ろい 色褪せぬように
+Pandora Pandora
+秘密のオブジェ
+SKAVLA
+Rum pum pum pum pum pum pum pum
+Rum pum pum pum pum pum pum pum
+SKAVLA
+Rum pum pum pum pum pum pum pum
+象る STAR
+SKAVLA
+Rum pum pum pum pum pum pum pum
+Rum pum pum pum pum pum pum pum
+灯す光 The sign of sprouting
+SKAVLA
+```
