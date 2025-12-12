@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "SKAVLA",
+  "base_artist": "ReGLOSS",
+  "createdAt": "2025-12-12T18:58:18.135416Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "SKAVLA",
+      "artist": "ReGLOSS",
+      "has_synced": false,
+      "path": "select/pl_01_SKAVLA_ReGLOSS.txt"
+    }
+  ]
+}
